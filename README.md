@@ -1,2 +1,6 @@
 # stars
-Wew
+
+```bash
+clang/gcc/cc stars.c -o stars.out
+./stars.out
+```
